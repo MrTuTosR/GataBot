@@ -1,4 +1,3 @@
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 let fetch = require('node-fetch')
 const { servers, yt } = require('../lib/y2mate')
 
